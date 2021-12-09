@@ -1,7 +1,24 @@
-### Hi there 👋
+Здравствуйте!
 
-<!--
-**Sultan06-lab/Sultan06-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Барахоев Султан, я начинающий фронтенд разработчик.
 
-- 🌱 I’m currently learning REACT and Node.js
- 
+Технологии:
+Javascript.
+CSS.
+HTML.
+
+Вскором времени начну изучение SCSS.
+Работал с GULP и WEPBACK(работаю)
+Активно изучаю REACT и NODE.JS (на данный момент разрабатываю проекты на данных технологиях).
+
+Английский язык: 
+Чтение документации.
+
+Обо мне: 
+Мне очень нравится веб-программирование.
+Иностранные языки.
+Читать книги.
+
+Со мной можно связаться по почте: barahoev00@list.ru
+
+
