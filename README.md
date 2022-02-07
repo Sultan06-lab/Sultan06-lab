@@ -6,9 +6,9 @@
 Javascript.
 CSS.
 HTML.
-React
-Redux
-REST API
+React.
+Redux.
+REST API.
 
 Английский язык: 
 Чтение документации.
