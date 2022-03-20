@@ -10,7 +10,7 @@ SCSS
 HTML.
 React.
 Redux.
-REST API.
+REST API (sequelize, postgres, express).
 
 Английский язык: 
 Чтение технической документации.
