@@ -24,5 +24,6 @@ REST API (sequelize, postgres, express).
 
 
 Со мной можно связаться по почте: barahoev00@list.ru
+телега: https://t.me/sultan06_ing
 тел: 89225712587
 
