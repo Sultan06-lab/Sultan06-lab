@@ -6,10 +6,13 @@
 Javascript.
 Typescript
 CSS.
-SCSS
+SCSS.
 HTML.
 React.
+React-Hooks.
 Redux.
+Redux-thunk.
+Next.js
 REST API (sequelize, postgres, express).
 
 Английский язык: 
