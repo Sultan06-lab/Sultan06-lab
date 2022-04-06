@@ -12,7 +12,7 @@ React.
 React-Hooks.
 Redux.
 Redux-thunk.
-Next.js
+Next.js.
 REST API (sequelize, postgres, express).
 
 Английский язык: 
