@@ -12,9 +12,11 @@ React.
 React-Hooks.
 Redux.
 Redux-thunk.
+Redux-toolkit
 Next.js.
 REST API (sequelize, postgres, express).
 
+Работа с git
 Английский язык: 
 Чтение технической документации.
 
